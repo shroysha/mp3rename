@@ -2,7 +2,7 @@
 > see JavaDoc: [JavaDoc](docs/javadoc/index.html)
 
 ## Description
-null
+Renames MP3s based on metadata. Made as practice.
 
 ### Tags
 [Java]
